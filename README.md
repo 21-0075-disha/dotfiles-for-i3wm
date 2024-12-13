@@ -11,8 +11,8 @@ a field of marigolds ...
 (I have tried this in WSL 2 Debian but it should work for any known Linux distribution)
 
 ## Detailed Info:
-OS: Debian GNU/Linux 12 (bookworm)
-Kernel: 5.15.167.4-microsoft-standard-WSL2
-Window Manager: i3
-Bash Prompt: Starship - inspired by Gruvbox Rainbow
-Terminal: Alacritty
+- OS: Debian GNU/Linux 12 (bookworm)
+- Kernel: 5.15.167.4-microsoft-standard-WSL2
+- Window Manager: i3
+- Bash Prompt: Starship - inspired by Gruvbox Rainbow
+- Terminal: Alacritty
